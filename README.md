@@ -1,2 +1,4 @@
-# test
-test
+<?php
+$bade "h1";
+echo $bade;
+?>
